@@ -1,5 +1,6 @@
 // CREATING API URL 
-const base_url = "http://localhost:5000";
+const base_url = "https://cntodobackend.onrender.com";
+// const base_url = "http://localhost:5000";
 
 // THIS HANDLE THE GET METHOD FOR OUR FRONTEND APP 
 const getAllTodo = async (setTodo) => {
